@@ -6,6 +6,7 @@
       <h1>hello this is my homepage of the company</h1>
       <button>Submit</button>
       <button>cancel</button>
+      <button>clear</button>
       </body>
     </head>
   </html>
